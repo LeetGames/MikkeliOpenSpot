@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OpenSpot</string>
+    <string name="button_map">MAP</string>
+    <string name="find">FIND</string>
+    <string name="routing_desc">Do you want route from current location?</string>
+    <string name="description_label1">Find closest free parking near you</string>
+    <string name="description_label2">Or set some additional options</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_location_rationale"> Please allow usge of location services </string>
+    <string name="ok"> OK </string>
+    <string name="enter_address_hint">Enter address</string>
+
+    <string name="title_activity_loader">LoaderActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="time_array">
+        <item>15m</item>
+        <item>30m</item>
+        <item>1h</item>
+        <item>1.5h</item>
+        <item>2h</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C1:B0:90:0E:85:8C:D8:5C:EC:5F:50:F6:58:D7:DB:F2:AA:DC:3C:F5%3Bleetgames.max.myapplication
+
+    You can also add your credentials to an existing key, using this line:
+    C1:B0:90:0E:85:8C:D8:5C:EC:5F:50:F6:58:D7:DB:F2:AA:DC:3C:F5;leetgames.max.myapplication
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBbg_NKsrP_kFMfxcW6vK27ECc7Ne_D23o
+    </string>
+</resources>
